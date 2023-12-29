@@ -1,6 +1,7 @@
 # AI Chat. 
 
 This is an assignment of Advanced Mobile Programming module at FIT-HCMUS
+
 20120454 - Lê Công Đắt
 
 # Tech Stack
